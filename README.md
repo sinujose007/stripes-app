@@ -6,9 +6,6 @@ Simple ecommerce system , supports Laravel 8.0 with Laravel Cashier.
 
 * [Features](#item1)
 * [Quick Start](#item2)
-* [Installation Guide](#item3)
-* [User Guide](#item4)
-* [Screenshots](#item5)
 
 -----
 <a name="item1"></a>
@@ -44,6 +41,6 @@ Finally, serve the application.
 Open [http://localhost:8000](http://localhost:8000) from your browser. 
 It will redirect to a login page , you can register each user by visiting http://localhost:8000/register
 
-Use registered username and password tologin and view the products grid
+Use registered username and password to login and view the products grid page.
 
 -----
